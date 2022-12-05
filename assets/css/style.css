@@ -8,12 +8,20 @@ body {
     background-color: #d9dcd6;
 }
 
+/* update the height of head, padding*/
 .header {
-    padding: 20px;
+    padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    height: 80px;
 }
+
+/* add a class; update the long of padding-top 
+.addhead {
+    float: left;
+    padding-top: 0px;
+}*/
 
 .header h1 {
     display: inline-block;
@@ -41,9 +49,11 @@ body {
     margin-left: 25px;
 }
 
+/* add font-size */
 a {
     color: #ffffff;
     text-decoration: none;
+    font-size: 15px;
 }
 
 p {
@@ -134,28 +144,31 @@ p {
     max-width: 150px;
 }
 
+/*update the height */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: 280px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
+/*update the height */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: 280px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
+/*update the height */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: 280px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
